@@ -1,2 +1,2 @@
 # -.-Design-
-Учебный проект Gloa-Academy
+Учебный проект Glo-Academy
